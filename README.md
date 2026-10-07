@@ -389,6 +389,8 @@ Week 3	Predictive Analysis & Forecasting	Model comparison and forecasts
 Week 4	Performance Evaluation & Recommendations	KPI evaluation and strategic recommendations
 
 
+
+
 Detailed Word reports for each internship week are submitted separately as required by the internship process.
 Author
 Dushyant Vasisht
