@@ -1,0 +1,7 @@
+KPI,Value,Unit,Benchmark,Gap,Performance_%,Status
+Production Efficiency,47.87405270997056,Production / Area,4.0,43.87405270997056,1196.8513177492641,Meets / Exceeds
+Yield Performance,47.87405270997056,Production / Area,4.0,43.87405270997056,1196.8513177492641,Meets / Exceeds
+Production Growth,-99.18529175139759,%,5.0,-104.18529175139759,-1983.7058350279517,Needs Improvement
+Crop Diversity,124.0,Number of Crops,20.0,104.0,620.0,Meets / Exceeds
+State Coverage,33.0,Number of States,25.0,8.0,132.0,Meets / Exceeds
+Top 10 Crop Production Share,99.11046303461572,%,80.0,19.11046303461572,123.88807879326964,Meets / Exceeds
